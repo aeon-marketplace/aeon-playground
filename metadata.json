@@ -1,0 +1,6 @@
+{
+  "name": "ÆON AI Playground",
+  "description": "Multi-provider AI workbench supporting Gemini, Claude, OpenAI, OpenRouter, Ollama, Groq, and Hugging Face with local code execution and self-correction agent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
